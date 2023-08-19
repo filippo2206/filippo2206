@@ -5,6 +5,8 @@
 
 I am a Statistics and Data Science student currently living in Italy. 
 
+You can find some of my work in the [repository section](https://github.com/filippo2206?tab=repositories).
+
 
 ## How to reach me 📫
 
